@@ -1,1 +1,52 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Arif Ahmed Joy, Founder and CEO of Avalon Hosting Services, Avalon Incorporation and Avalon Global Solutions LLC">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060B16"/>
+      <stop offset="0.55" stop-color="#0D1A32"/>
+      <stop offset="1" stop-color="#16294A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7E7B0"/>
+      <stop offset="0.5" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#A9822A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.6">
+      <stop offset="0" stop-color="#D4AF37" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#D4AF37" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name { font-family: Georgia, 'Times New Roman', serif; font-size: 54px; font-weight: 700; letter-spacing: 7px; }
+      .role { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; letter-spacing: 6px; fill: #E9DAB2; }
+      .cos  { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; letter-spacing: 1px; fill: #AEBBD3; }
+      .t    { font-family: Consolas, 'Courier New', monospace; font-size: 19px; fill: #D4AF37; opacity: 0; }
+      .t1   { opacity: 1; }
+      @keyframes show { 0% { opacity: 0; } 4% { opacity: 1; } 22% { opacity: 1; } 27% { opacity: 0; } 100% { opacity: 0; } }
+      .a1, .a2, .a3, .a4 { animation: show 16s infinite; }
+      .a1 { animation-delay: 0s; }
+      .a2 { animation-delay: 4s; }
+      .a3 { animation-delay: 8s; }
+      .a4 { animation-delay: 12s; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="298" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="298" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="298" rx="18" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="997" height="297" rx="17.5" fill="none" stroke="#D4AF37" stroke-opacity="0.45"/>
+  <path d="M0 0H70V4H4V70H0Z" fill="#D4AF37" fill-opacity="0.7" transform="translate(22 22) scale(0.6)"/>
+  <path d="M0 0H70V4H4V70H0Z" fill="#D4AF37" fill-opacity="0.7" transform="translate(978 22) scale(-0.6 0.6)"/>
+  <path d="M0 0H70V4H4V70H0Z" fill="#D4AF37" fill-opacity="0.7" transform="translate(22 278) scale(0.6 -0.6)"/>
+  <path d="M0 0H70V4H4V70H0Z" fill="#D4AF37" fill-opacity="0.7" transform="translate(978 278) scale(-0.6 -0.6)"/>
+  <text x="500" y="104" text-anchor="middle" class="name" fill="url(#gold)">ARIF AHMED JOY</text>
+  <text x="503" y="140" text-anchor="middle" class="role">FOUNDER &amp; CEO</text>
+  <line x1="360" y1="162" x2="480" y2="162" stroke="url(#gold)" stroke-width="1.2"/>
+  <rect x="496" y="157" width="8" height="8" fill="#D4AF37" transform="rotate(45 500 161)"/>
+  <line x1="520" y1="162" x2="640" y2="162" stroke="url(#gold)" stroke-width="1.2"/>
+  <text x="500" y="194" text-anchor="middle" class="cos">Avalon Hosting Services  &#183;  Avalon Incorporation  &#183;  Avalon Global Solutions LLC</text>
+  <text x="500" y="254" text-anchor="middle" class="t t1 a1">12+ years in web hosting &amp; server infrastructure</text>
+  <text x="500" y="254" text-anchor="middle" class="t a2">cPanel/WHM  |  DNS  |  Email Deliverability  |  Cloud</text>
+  <text x="500" y="254" text-anchor="middle" class="t a3">Top Rated on Upwork  &#183;  359+ jobs  &#183;  243 reviews</text>
+  <text x="500" y="254" text-anchor="middle" class="t a4">World's Local Hosting</text>
+</svg>

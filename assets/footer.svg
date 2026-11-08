@@ -1,1 +1,23 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" role="img" aria-label="Built with uptime and a lot of DNS records">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16294A"/>
+      <stop offset="0.5" stop-color="#0D1A32"/>
+      <stop offset="1" stop-color="#060B16"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7E7B0"/>
+      <stop offset="0.5" stop-color="#D4AF37"/>
+      <stop offset="1" stop-color="#A9822A"/>
+    </linearGradient>
+    <style>
+      .f { font-family: Georgia, 'Times New Roman', serif; font-size: 17px; font-style: italic; letter-spacing: 1px; fill: #E9DAB2; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="998" height="88" rx="14" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="997" height="87" rx="13.5" fill="none" stroke="#D4AF37" stroke-opacity="0.45"/>
+  <line x1="330" y1="28" x2="470" y2="28" stroke="url(#gold)" stroke-width="1.2"/>
+  <rect x="496" y="24" width="8" height="8" fill="#D4AF37" transform="rotate(45 500 28)"/>
+  <line x1="530" y1="28" x2="670" y2="28" stroke="url(#gold)" stroke-width="1.2"/>
+  <text x="500" y="62" text-anchor="middle" class="f">Built with uptime and a lot of DNS records.</text>
+</svg>
