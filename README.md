@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:13213B,100:1E3556&height=170&section=header&text=Arif%20Ahmed%20Joy&fontSize=50&fontColor=D4AF37&fontAlignY=40" alt="Header" />
+<img src="./assets/header.svg" alt="Arif Ahmed Joy - Founder and CEO" width="100%" />
 
-**Founder & CEO | Avalon Hosting Services | Avalon Incorporation | Avalon Global Solutions LLC**
 
-<a href="https://github.com/arifahmedjoy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Founder+and+CEO+%7C+Engineer+at+heart;12%2B+years+in+web+hosting+and+server+infrastructure;cPanel+and+WHM+%7C+DNS+%7C+Email+Deliverability;World%27s+Local+Hosting" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -152,8 +150,7 @@ Facing **server errors, DNS problems, email deliverability issues or a migration
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3556,50:13213B,100:0B1220&height=110&section=footer" alt="Footer" />
+<img src="./assets/footer.svg" alt="Footer" width="100%" />
 
-*Built with ☕, uptime and a lot of DNS records.*
 
 </div>
