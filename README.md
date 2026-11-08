@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Arif%20Ahmed%20Joy&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header" />
 
-**Founder | Managing Director & CEO @ Avalon Hosting Services**
+**Founder & CEO | Avalon Hosting Services | Avalon Incorporation | Avalon Global Solutions LLC**
 
 <a href="https://github.com/arifahmedjoy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Founder+and+CEO+%7C+Engineer+at+heart;12%2B+years+in+web+hosting+and+server+infrastructure;cPanel+and+WHM+%7C+DNS+%7C+Email+Deliverability;World%27s+Local+Hosting" alt="Typing SVG" /></a>
 
@@ -29,9 +29,12 @@
 
 I'm **Engr. Arif Ahmed Joy**, a computer engineer (BEng, CSE, University of Asia Pacific) who turned a love for servers into a hosting company.
 
-- 🏢 **Managing Director & CEO** at [**Avalon Hosting Services**](https://github.com/AvalonHostingServices), a hosting company headquartered in Sheridan, WY, serving the USA, UK and beyond under the promise of ***"World's Local Hosting"***
+- 🏢 **Founder & CEO** of three companies:
+  - [**Avalon Hosting Services**](https://github.com/AvalonHostingServices), a hosting company headquartered in Sheridan, WY, serving the USA, UK and beyond under the promise of ***"World's Local Hosting"***
+  - **Avalon Incorporation**
+  - **Avalon Global Solutions LLC**
 - 🛠️ **12+ years** in web hosting, server troubleshooting and email systems, from the terminal to the boardroom
-- ⭐ **Top Rated** freelancer on Upwork: **359+ jobs** delivered, **243 client reviews**, and a long-term trusted partner for agencies and startups
+- ⭐ Freelancer by passion and choice: **Top Rated** on Upwork with **359+ jobs** delivered, **243 client reviews**, and a long-term trusted partner for agencies and startups
 - 🌍 Based in **Dhaka, Bangladesh** and working across time zones
 - 🗣️ Bengali (native) · English (fluent) · Hindi (conversational)
 
