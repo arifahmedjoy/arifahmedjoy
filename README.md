@@ -38,8 +38,8 @@ I'm **Engr. Arif Ahmed Joy**, a computer engineer (BEng, CSE, University of Asia
 
 - 🏢 **Founder & CEO** of three companies:
   - [**Avalon Hosting Services**](https://github.com/AvalonHostingServices), a hosting company headquartered in Sheridan, WY, serving the USA, UK and beyond under the promise of ***"World's Local Hosting"***
-  - **Avalon Incorporation**
-  - **Avalon Global Solutions LLC**
+  - [**Avalon Incorporation**](https://avalonincorporation.com)
+  - [**Avalon Global Solutions LLC**](https://avalonglobalsolutions.com)
 - 🛠️ **12+ years** in web hosting, server troubleshooting and email systems, from the terminal to the boardroom
 - ⭐ Freelancer by passion and choice: **Top Rated** on Upwork with **359+ jobs** delivered, **243 client reviews**, and a long-term trusted partner for agencies and startups
 - 🌍 Based in **Dhaka, Bangladesh** and working across time zones
@@ -146,6 +146,7 @@ I'm a big believer in owning your infrastructure. Where a SaaS bill can be repla
 Facing **server errors, DNS problems, email deliverability issues or a migration**? Or looking for reliable hosting with real humans behind it?
 
 - 🌐 Hosting: [avalonhosting.services](https://avalonhosting.services)
+- 🏢 Group companies: [Avalon Incorporation](https://avalonincorporation.com) | [Avalon Global Solutions LLC](https://avalonglobalsolutions.com)
 - 💼 Freelance: [Upwork profile](https://www.upwork.com/freelancers/~0198dfeb9fafd0e3fe)
 - 🐦 Say hi: [@arifahmedjoy](https://twitter.com/arifahmedjoy)
 
