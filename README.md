@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Arif%20Ahmed%20Joy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%7C%20Managing%20Director%20%26%20CEO%20%40%20Avalon%20Hosting%20Services&descSize=17&descAlignY=58" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Arif%20Ahmed%20Joy&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header" />
 
-<a href="https://github.com/arifahmedjoy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Founder+%26+CEO+%7C+Engineer+at+heart;12%2B+years+in+web+hosting+%26+server+infrastructure;cPanel%2FWHM+%7C+DNS+%7C+Email+Deliverability+%7C+Cloud;%22World's+Local+Hosting%22" alt="Typing SVG" /></a>
+**Founder | Managing Director & CEO @ Avalon Hosting Services**
+
+<a href="https://github.com/arifahmedjoy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Founder+and+CEO+%7C+Engineer+at+heart;12%2B+years+in+web+hosting+and+server+infrastructure;cPanel+and+WHM+%7C+DNS+%7C+Email+Deliverability;World%27s+Local+Hosting" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,8 +15,9 @@
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arifahmedjoy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifahmedjoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+
 
 <img src="https://streak-stats.demolab.com?user=arifahmedjoy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
