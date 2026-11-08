@@ -60,6 +60,7 @@ I'm **Engr. Arif Ahmed Joy**, a computer engineer (BEng, CSE, University of Asia
 | ☁️ | **Cloud & Containers** | AWS (EC2, S3, Lightsail), Docker, self-hosted PaaS with Coolify |
 | 🔐 | **Security & Performance** | SSL, firewalls, malware cleanup, resource tuning |
 | 🧾 | **Hosting Business Ops** | WHMCS automation, provisioning workflows, support and billing integrations |
+| 💻 | **Full-Stack Development** | Node.js, Express, NestJS, React and Next.js apps, plus PHP and Smarty customisation |
 
 ---
 
@@ -103,6 +104,16 @@ I'm **Engr. Arif Ahmed Joy**, a computer engineer (BEng, CSE, University of Asia
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks, Runtime & Scripting**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Smarty](https://img.shields.io/badge/Smarty-E4A11B?style=flat-square)
 
 ---
 
