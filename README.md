@@ -1,25 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Arif%20Ahmed%20Joy&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:13213B,100:1E3556&height=170&section=header&text=Arif%20Ahmed%20Joy&fontSize=50&fontColor=D4AF37&fontAlignY=40" alt="Header" />
 
 **Founder & CEO | Avalon Hosting Services | Avalon Incorporation | Avalon Global Solutions LLC**
 
-<a href="https://github.com/arifahmedjoy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Founder+and+CEO+%7C+Engineer+at+heart;12%2B+years+in+web+hosting+and+server+infrastructure;cPanel+and+WHM+%7C+DNS+%7C+Email+Deliverability;World%27s+Local+Hosting" alt="Typing SVG" /></a>
+<a href="https://github.com/arifahmedjoy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Founder+and+CEO+%7C+Engineer+at+heart;12%2B+years+in+web+hosting+and+server+infrastructure;cPanel+and+WHM+%7C+DNS+%7C+Email+Deliverability;World%27s+Local+Hosting" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Avalon%20Hosting-avalonhosting.services-0ea5e9?style=for-the-badge&logo=cpanel&logoColor=white)](https://avalonhosting.services)
-[![X](https://img.shields.io/badge/X-@arifahmedjoy-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arifahmedjoy)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6248--7132-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6248-7132)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0198dfeb9fafd0e3fe)
+[![Website](https://img.shields.io/badge/Avalon%20Hosting-avalonhosting.services-1E3556?style=for-the-badge&logo=cpanel&logoColor=D4AF37&labelColor=0B1220)](https://avalonhosting.services)
+[![X](https://img.shields.io/badge/X-@arifahmedjoy-1E3556?style=for-the-badge&logo=x&logoColor=D4AF37&labelColor=0B1220)](https://twitter.com/arifahmedjoy)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6248--7132-1E3556?style=for-the-badge&logo=orcid&logoColor=D4AF37&labelColor=0B1220)](https://orcid.org/0009-0007-6248-7132)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-1E3556?style=for-the-badge&logo=upwork&logoColor=D4AF37&labelColor=0B1220)](https://www.upwork.com/freelancers/~0198dfeb9fafd0e3fe)
 
 <br/>
 
-<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-1E3556?style=for-the-badge&logoColor=D4AF37&labelColor=0B1220)
+![Companies](https://img.shields.io/badge/Founder%20%26%20CEO-3%20Companies-1E3556?style=for-the-badge&logoColor=D4AF37&labelColor=0B1220)
+![Upwork Jobs](https://img.shields.io/badge/Upwork%20Jobs-359%2B-1E3556?style=for-the-badge&logoColor=D4AF37&labelColor=0B1220)
+![Client Reviews](https://img.shields.io/badge/Client%20Reviews-243-1E3556?style=for-the-badge&logoColor=D4AF37&labelColor=0B1220)
+
+<br/>
+
+<img height="170" src="./profile-summary-card-output/great_gatsby/3-stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile-summary-card-output/great_gatsby/2-most-commit-language.svg" alt="Top languages" />
 
 
-<img src="https://streak-stats.demolab.com?user=arifahmedjoy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=arifahmedjoy&background=0B1220&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -133,7 +140,7 @@ Facing **server errors, DNS problems, email deliverability issues or a migration
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3556,50:13213B,100:0B1220&height=110&section=footer" alt="Footer" />
 
 *Built with ☕, uptime and a lot of DNS records.*
 
